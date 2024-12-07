@@ -30,3 +30,5 @@ from ten different hospitals in Kerala, India.
 2. Accuracy
 3. Recall
 4. F1 Score
+
+*Dataset sourced from: https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos%7D%7D*
